@@ -1,6 +1,8 @@
 #inluce <stdio.h>
 
 int main(){
-	printf("helloku");
+	printf("helloku\n");
+
+
 	return 0;
 }
